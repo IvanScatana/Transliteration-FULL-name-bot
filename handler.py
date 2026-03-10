@@ -36,6 +36,7 @@ transliteration_dict = {
     "ч":"ch",
     "ш":"sh",
     "щ":"shch",
+    "ь":"",
     "ы":"y",
     "ъ":"ie",
     "э":"e",
